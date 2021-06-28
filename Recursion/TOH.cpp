@@ -7,7 +7,7 @@ int TOH(int n,int A,int B,int C){
 		//move disc from A to B using C
 		TOH(n-1,A,C,B);
 		cout<<"("<<A<<" "<<C <<")";
-		//move disc from B to A using C
+		//move disc from B to C using A
 		TOH(n-1,B,A,C);
 	}
 }
