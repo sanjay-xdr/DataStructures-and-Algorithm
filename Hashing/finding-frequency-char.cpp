@@ -1,5 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
+
+
+//https://www.youtube.com/watch?v=KEs5UyBJ39g
+//https://www.youtube.com/@takeUforward/videos
+//https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
 int main(){
 	
 	string s="therearesomanythingsinsidemyhead";
